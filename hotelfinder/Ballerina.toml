@@ -1,0 +1,9 @@
+[package]
+org = "agarciaje"
+name = "hotelfinder"
+version = "0.1.0"
+distribution = "2201.14.1"
+title = "HotelFinder"
+
+[build-options]
+sticky = true
